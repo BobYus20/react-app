@@ -1,6 +1,6 @@
 {
   "name": "react",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~06la",
+  "description": "A simple React app",
   "scripts": {
     "start": "vite",
     "dev": "vite",
