@@ -1,12 +1,12 @@
-import Header from "./components/Navbar"
-import MainContent from "./components/MainContent"
+import Navbar from "./components/Navbar"
+import Main from "./components/Main"
 
 
 export default function App() {
     return (
         <>
-            <Header />
-            <MainContent />
+            <Navbar />
+            <Main />
         </>
     )
 }
